@@ -1,0 +1,6 @@
+map,pct_not_seen,unburned to low,low,moderate,high,agrees_with_ravg-cbi4
+ravg-cbi4,0.0,14.3,48.5,21.5,15.6,
+baer-barc4,0.0,24.3,52.6,15.7,7.4,68.8
+baer-keybenson,0.0,23.5,39.1,29.0,8.4,76.7
+ours-initial,1.6,21.1,32.3,33.2,13.5,72.4
+ours-extended,0.2,11.2,24.7,52.2,11.9,46.7

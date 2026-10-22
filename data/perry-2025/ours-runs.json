@@ -1,0 +1,22 @@
+{
+ "initial": {
+  "kind": "initial",
+  "offset": 6,
+  "pre_views": 22,
+  "post_views": 13,
+  "post_dates": [
+   "2025-09-10",
+   "2025-10-08"
+  ]
+ },
+ "extended": {
+  "kind": "extended",
+  "offset": 9,
+  "pre_views": 22,
+  "post_views": 28,
+  "post_dates": [
+   "2026-07-15",
+   "2026-10-08"
+  ]
+ }
+}

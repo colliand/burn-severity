@@ -1,0 +1,46 @@
+{
+ "reference": "ravg-cbi4",
+ "textbook": [
+  100,
+  270,
+  660
+ ],
+ "runs": {
+  "initial": {
+   "textbook_agreement": 0.724,
+   "fitted_thresholds": [
+    70,
+    360,
+    650
+   ],
+   "fitted_agreement": 0.799,
+   "holdout": {
+    "fitted_on_west": [
+     80,
+     290,
+     620
+    ],
+    "east_agreement": 0.752,
+    "east_agreement_textbook": 0.699
+   }
+  },
+  "extended": {
+   "textbook_agreement": 0.466,
+   "fitted_thresholds": [
+    80,
+    450,
+    660
+   ],
+   "fitted_agreement": 0.606,
+   "holdout": {
+    "fitted_on_west": [
+     50,
+     450,
+     540
+    ],
+    "east_agreement": 0.616,
+    "east_agreement_textbook": 0.451
+   }
+  }
+ }
+}

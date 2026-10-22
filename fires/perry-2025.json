@@ -1,0 +1,14 @@
+{
+  "id": "perry-2025",
+  "name": "Perry fire, 2025 (North Cascades National Park, Whatcom County, Washington)",
+  "year": 2025,
+  "wfigs_id": "2025-WANCP-000415",
+  "wfigs_bbox": [-121.4, 48.7, -120.8, 49.1],
+  "crs": "EPSG:32610",
+  "official_event_id": "WA4892312110520250828",
+  "official_thresholds": {"BAER": {"low": 75, "moderate": 133, "high": 191, "note": "portal fire index, flagged nonstandard"}},
+  "windows": {
+    "initial": {"pre": ["2024-07-15", "2024-10-10"], "post": ["2025-09-10", "2025-10-13"]},
+    "extended": {"pre": ["2024-07-15", "2024-10-10"], "post": ["2026-07-15", "2026-10-10"]}
+  }
+}

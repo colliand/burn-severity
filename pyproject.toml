@@ -1,0 +1,25 @@
+[project]
+name = "burn-severity"
+version = "0.1.0"
+description = "Several burn-severity maps of one fire (ours from Sentinel-2, USGS BAER, USFS RAVG, MTBS, others) on one grid, compared. One config file per fire."
+requires-python = "==3.13.*"
+dependencies = [
+    "requests==2.34.2",
+    "pandas==2.3.3",
+    "numpy==2.5.3",
+    "geopandas==1.1.4",
+    "shapely==2.1.2",
+    "pyogrio==0.13.0",
+    "pyproj==3.8.0",
+    "rasterio==1.5.1",
+    "scipy==1.16.2",
+    "pillow>=12.3.0",
+    "matplotlib==3.10.7",
+]
+
+[dependency-groups]
+dev = ["pytest"]
+
+[tool.uv]
+package = false
+exclude-newer = "2026-10-09T00:00:00Z"

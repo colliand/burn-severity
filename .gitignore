@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+cache/
+*.npz
+.DS_Store
+local/

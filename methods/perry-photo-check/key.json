@@ -1,0 +1,279 @@
+{
+ "scenes": {
+  "before (24 Aug 2025)": "2025-08-24",
+  "after (18 Sep 2025)": "2025-09-18",
+  "a year after": "2026-09-18"
+ },
+ "spots": [
+  {
+   "stratum": "B",
+   "x": 640210.0,
+   "y": 5420890.0,
+   "ravg-cbi4": 4,
+   "ours-initial": 4,
+   "baer-barc4": 3,
+   "n": 1
+  },
+  {
+   "stratum": "D",
+   "x": 639450.0,
+   "y": 5420990.0,
+   "ravg-cbi4": 4,
+   "ours-initial": 4,
+   "baer-barc4": 4,
+   "n": 2
+  },
+  {
+   "stratum": "E",
+   "x": 639850.0,
+   "y": 5420410.0,
+   "ravg-cbi4": 2,
+   "ours-initial": 2,
+   "baer-barc4": 2,
+   "n": 3
+  },
+  {
+   "stratum": "C",
+   "x": 640170.0,
+   "y": 5421590.0,
+   "ravg-cbi4": 2,
+   "ours-initial": 3,
+   "baer-barc4": 2,
+   "n": 4
+  },
+  {
+   "stratum": "C",
+   "x": 639890.0,
+   "y": 5422230.0,
+   "ravg-cbi4": 2,
+   "ours-initial": 3,
+   "baer-barc4": 2,
+   "n": 5
+  },
+  {
+   "stratum": "E",
+   "x": 640530.0,
+   "y": 5420210.0,
+   "ravg-cbi4": 2,
+   "ours-initial": 2,
+   "baer-barc4": 2,
+   "n": 6
+  },
+  {
+   "stratum": "E",
+   "x": 640870.0,
+   "y": 5420990.0,
+   "ravg-cbi4": 2,
+   "ours-initial": 2,
+   "baer-barc4": 2,
+   "n": 7
+  },
+  {
+   "stratum": "B",
+   "x": 639550.0,
+   "y": 5421170.0,
+   "ravg-cbi4": 4,
+   "ours-initial": 3,
+   "baer-barc4": 3,
+   "n": 8
+  },
+  {
+   "stratum": "E",
+   "x": 640170.0,
+   "y": 5420310.0,
+   "ravg-cbi4": 2,
+   "ours-initial": 2,
+   "baer-barc4": 2,
+   "n": 9
+  },
+  {
+   "stratum": "C",
+   "x": 640470.0,
+   "y": 5421450.0,
+   "ravg-cbi4": 2,
+   "ours-initial": 3,
+   "baer-barc4": 2,
+   "n": 10
+  },
+  {
+   "stratum": "A",
+   "x": 639110.0,
+   "y": 5420210.0,
+   "ravg-cbi4": 3,
+   "ours-initial": 3,
+   "baer-barc4": 2,
+   "n": 11
+  },
+  {
+   "stratum": "E",
+   "x": 638870.0,
+   "y": 5420490.0,
+   "ravg-cbi4": 2,
+   "ours-initial": 2,
+   "baer-barc4": 2,
+   "n": 12
+  },
+  {
+   "stratum": "D",
+   "x": 640070.0,
+   "y": 5420950.0,
+   "ravg-cbi4": 4,
+   "ours-initial": 4,
+   "baer-barc4": 4,
+   "n": 13
+  },
+  {
+   "stratum": "B",
+   "x": 638470.0,
+   "y": 5421210.0,
+   "ravg-cbi4": 4,
+   "ours-initial": 3,
+   "baer-barc4": 3,
+   "n": 14
+  },
+  {
+   "stratum": "C",
+   "x": 640590.0,
+   "y": 5420750.0,
+   "ravg-cbi4": 2,
+   "ours-initial": 3,
+   "baer-barc4": 2,
+   "n": 15
+  },
+  {
+   "stratum": "B",
+   "x": 639430.0,
+   "y": 5420710.0,
+   "ravg-cbi4": 4,
+   "ours-initial": 3,
+   "baer-barc4": 3,
+   "n": 16
+  },
+  {
+   "stratum": "A",
+   "x": 640410.0,
+   "y": 5420370.0,
+   "ravg-cbi4": 3,
+   "ours-initial": 3,
+   "baer-barc4": 2,
+   "n": 17
+  },
+  {
+   "stratum": "C",
+   "x": 639970.0,
+   "y": 5421890.0,
+   "ravg-cbi4": 2,
+   "ours-initial": 3,
+   "baer-barc4": 2,
+   "n": 18
+  },
+  {
+   "stratum": "C",
+   "x": 640650.0,
+   "y": 5421050.0,
+   "ravg-cbi4": 2,
+   "ours-initial": 3,
+   "baer-barc4": 2,
+   "n": 19
+  },
+  {
+   "stratum": "D",
+   "x": 638870.0,
+   "y": 5421070.0,
+   "ravg-cbi4": 4,
+   "ours-initial": 4,
+   "baer-barc4": 4,
+   "n": 20
+  },
+  {
+   "stratum": "A",
+   "x": 637970.0,
+   "y": 5420530.0,
+   "ravg-cbi4": 3,
+   "ours-initial": 3,
+   "baer-barc4": 2,
+   "n": 21
+  },
+  {
+   "stratum": "A",
+   "x": 639530.0,
+   "y": 5421510.0,
+   "ravg-cbi4": 3,
+   "ours-initial": 3,
+   "baer-barc4": 2,
+   "n": 22
+  },
+  {
+   "stratum": "D",
+   "x": 639190.0,
+   "y": 5420610.0,
+   "ravg-cbi4": 4,
+   "ours-initial": 4,
+   "baer-barc4": 4,
+   "n": 23
+  },
+  {
+   "stratum": "D",
+   "x": 639210.0,
+   "y": 5421250.0,
+   "ravg-cbi4": 4,
+   "ours-initial": 4,
+   "baer-barc4": 4,
+   "n": 24
+  },
+  {
+   "stratum": "A",
+   "x": 638550.0,
+   "y": 5420330.0,
+   "ravg-cbi4": 3,
+   "ours-initial": 2,
+   "baer-barc4": 2,
+   "n": 25
+  },
+  {
+   "stratum": "B",
+   "x": 638810.0,
+   "y": 5421290.0,
+   "ravg-cbi4": 4,
+   "ours-initial": 4,
+   "baer-barc4": 3,
+   "n": 26
+  },
+  {
+   "stratum": "E",
+   "x": 640490.0,
+   "y": 5422250.0,
+   "ravg-cbi4": 2,
+   "ours-initial": 2,
+   "baer-barc4": 2,
+   "n": 27
+  },
+  {
+   "stratum": "D",
+   "x": 638550.0,
+   "y": 5421050.0,
+   "ravg-cbi4": 4,
+   "ours-initial": 4,
+   "baer-barc4": 4,
+   "n": 28
+  },
+  {
+   "stratum": "A",
+   "x": 640030.0,
+   "y": 5420430.0,
+   "ravg-cbi4": 3,
+   "ours-initial": 3,
+   "baer-barc4": 2,
+   "n": 29
+  },
+  {
+   "stratum": "B",
+   "x": 639090.0,
+   "y": 5421470.0,
+   "ravg-cbi4": 4,
+   "ours-initial": 3,
+   "baer-barc4": 3,
+   "n": 30
+  }
+ ]
+}

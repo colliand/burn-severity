@@ -1,0 +1,135 @@
+{
+ "reference": "ravg-cbi4",
+ "classes": {
+  "1": "unburned to low",
+  "2": "low",
+  "3": "moderate",
+  "4": "high"
+ },
+ "maps": {
+  "baer-barc4": {
+   "exact_pct": 68.8,
+   "within_one_pct": 99.1,
+   "pixels": 17918,
+   "matrix_rows_reference": [
+    [
+     2568,
+     0,
+     0,
+     0
+    ],
+    [
+     1753,
+     6944,
+     0,
+     0
+    ],
+    [
+     24,
+     2338,
+     1492,
+     0
+    ],
+    [
+     4,
+     141,
+     1327,
+     1327
+    ]
+   ]
+  },
+  "baer-keybenson": {
+   "exact_pct": 76.7,
+   "within_one_pct": 99.7,
+   "pixels": 17918,
+   "matrix_rows_reference": [
+    [
+     2568,
+     0,
+     0,
+     0
+    ],
+    [
+     1605,
+     6400,
+     692,
+     0
+    ],
+    [
+     23,
+     576,
+     3255,
+     0
+    ],
+    [
+     4,
+     34,
+     1248,
+     1513
+    ]
+   ]
+  },
+  "ours-initial": {
+   "exact_pct": 72.4,
+   "within_one_pct": 99.7,
+   "pixels": 17625,
+   "matrix_rows_reference": [
+    [
+     2352,
+     191,
+     4,
+     0
+    ],
+    [
+     1333,
+     5125,
+     2073,
+     1
+    ],
+    [
+     24,
+     345,
+     3150,
+     251
+    ],
+    [
+     3,
+     23,
+     623,
+     2127
+    ]
+   ]
+  },
+  "ours-extended": {
+   "exact_pct": 46.7,
+   "within_one_pct": 97.3,
+   "pixels": 17889,
+   "matrix_rows_reference": [
+    [
+     1247,
+     1007,
+     304,
+     0
+    ],
+    [
+     702,
+     2910,
+     4985,
+     81
+    ],
+    [
+     45,
+     452,
+     2749,
+     608
+    ],
+    [
+     6,
+     54,
+     1294,
+     1445
+    ]
+   ]
+  }
+ }
+}
