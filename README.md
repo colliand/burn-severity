@@ -36,3 +36,17 @@ Reports: `methods/<fire>.md`, and the matching page on notes.colliand.com.
 Data: NIFC WFIGS perimeters (public domain); Sentinel-2 L2A (contains modified Copernicus Sentinel data) via
 Microsoft Planetary Computer; JRC Global Surface Water (Pekel et al. 2016); USGS/USFS Burn Severity Portal products
 (public domain).
+
+## Licence
+
+Open and permissively shared:
+
+- **Code** (`burn_severity/`, `methods/*.py`): [MIT](LICENSE).
+- **Data, figures and text** (`data/`, `methods/` reports and images, this README): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+  Reuse freely with credit.
+- Inputs keep their own terms: NIFC WFIGS perimeters and USGS/USFS Burn Severity Portal products are public domain;
+  Sentinel-2 data are free and open under the Copernicus terms (credit "contains modified Copernicus Sentinel data");
+  JRC Global Surface Water is CC BY 4.0.
+
+Cite as: Colliander, J. (2026). *burn-severity: burn-severity maps of one fire, compared and used to tune a Sentinel-2
+estimate.* https://github.com/colliand/burn-severity
